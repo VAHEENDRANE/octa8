@@ -2,7 +2,7 @@
 
 A sophisticated, voice-interactive AI platform designed to simulate realistic job interviews and provide career mentorship. Built with React, Node.js, MySQL, and local AI integration (Ollama).
 
-## 🚀 Key Features
+##  Key Features
 
 ### 🎤 Voice-First Interaction
 - **Real-time Speech-to-Text**: Converts your spoken answers into text instantly.
@@ -10,7 +10,7 @@ A sophisticated, voice-interactive AI platform designed to simulate realistic jo
 - **Text-to-Speech**: The AI interviewer speaks back to you with a natural voice.
 - **Review & Retry**: Review your transcribed answer before sending. Cancel and re-record if needed.
 
-### 🧠 Intelligent Interviewer (OCTA8)
+### Intelligent Interviewer (OCTA8)
 - **Resume-Aware**: Reads your uploaded resume (PDF) and tailors questions to your specific skills.
 - **Dynamic Stages**: Successfully navigates through phases:
     1.  **Introduction**: Warm welcome and resume-based icebreakers.
@@ -19,23 +19,23 @@ A sophisticated, voice-interactive AI platform designed to simulate realistic jo
 - **Context Retention**: Remembers previous answers to ask relevant follow-up questions.
 - **Anti-Repetition Logic**: Explicitly designed to avoid repeating topics or questions.
 
-### 📊 Comprehensive Evaluation
+### Comprehensive Evaluation
 - **Instant Feedback**: Generates a detailed "Scorecard" at the end of the session.
 - **Scoring**: Provides 0-10 ratings for **Technical Proficiency** and **Communication Skills**.
 - **Actionable Insights**: Lists specific Strengths and Areas for Improvement based on the conversation history.
 
-### 👥 Dual Modes
+###  Dual Modes
 1.  **Interview Mode**: Strict, professional simulation with scoring.
 2.  **Mentor Mode**: A casual, open-ended chat for career advice, resume reviews, or general tech discussions.
 
-### 🔐 User System
+###  User System
 - **Authentication**: Secure Login/Signup with JWT (JSON Web Tokens).
 - **Session History**: Saves all past interviews and mentorship sessions. Resume previous chats anytime.
 - **Dark/Light Mode**: Fully responsive UI with theme toggling.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: React (Vite), Tailwind CSS, Lucide Icons.
 - **Backend**: Node.js, Express.js.
@@ -45,7 +45,7 @@ A sophisticated, voice-interactive AI platform designed to simulate realistic jo
 
 ---
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before running the project, ensure you have the following installed:
 
@@ -103,7 +103,7 @@ The application should now be running at `http://localhost:5173`.
 
 ---
 
-## 📖 Usage Guide
+## Usage Guide
 
 1.  **Sign Up/Login**: Create an account to save your progress.
 2.  **Dashboard**:
@@ -123,7 +123,7 @@ The application should now be running at `http://localhost:5173`.
 
 ---
 
-## 🛑 Troubleshooting
+##  Troubleshooting
 
 *   **"Failed to process chat"**:
     *   Ensure Ollama is running (`ollama serve`).
@@ -138,5 +138,6 @@ The application should now be running at `http://localhost:5173`.
 
 ---
 
-## 📜 License
+## License
 This project is for educational and development purposes.
+
