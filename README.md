@@ -4,7 +4,7 @@ A sophisticated, voice-interactive AI platform designed to simulate realistic jo
 
 ##  Key Features
 
-### 🎤 Voice-First Interaction
+###  Voice-First Interaction
 - **Real-time Speech-to-Text**: Converts your spoken answers into text instantly.
 - **Audio Visualizer**: Dynamic visual feedback when speaking or listening.
 - **Text-to-Speech**: The AI interviewer speaks back to you with a natural voice.
@@ -56,7 +56,7 @@ Before running the project, ensure you have the following installed:
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Database Setup
 Create a MySQL database and import the schema:
@@ -140,4 +140,5 @@ The application should now be running at `http://localhost:5173`.
 
 ## License
 This project is for educational and development purposes.
+
 
